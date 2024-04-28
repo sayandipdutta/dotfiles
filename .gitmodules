@@ -1,3 +1,6 @@
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:sayandipdutta/tmux.git
+[submodule "zshconfig"]
+	path = zshconfig
+	url = git@github.com:sayandipdutta/zshconfig.git
