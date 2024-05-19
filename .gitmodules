@@ -13,3 +13,6 @@
 [submodule "lazygit"]
 	path = lazygit
 	url = git@github.com:sayandipdutta/lazygit.git
+[submodule "komorebi"]
+	path = komorebi
+	url = git@github.com:sayandipdutta/komorebi.git
