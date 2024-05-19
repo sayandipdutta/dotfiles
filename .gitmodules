@@ -7,3 +7,9 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:sayandipdutta/nvim.git
+[submodule "bat"]
+	path = bat
+	url = git@github.com:sayandipdutta/bat.git
+[submodule "lazygit"]
+	path = lazygit
+	url = git@github.com:sayandipdutta/lazygit.git
